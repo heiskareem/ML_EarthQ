@@ -1,0 +1,857 @@
+state,state_code
+ AK,0
+ AR,1
+ AZ,2
+ Afghanistan,3
+ Alabama,4
+ Aland Islands,5
+ Alaska,6
+ Alaska region,7
+ Albania,8
+ Aleutian Islands,9
+ Algeria,10
+ American Samoa,11
+ Andorra,12
+ Angola,13
+ Anguilla,14
+ Antarctica,15
+ Antigua and Barbuda,16
+ Argentina,17
+ Argentina region,18
+ Arizona,19
+ Arkansas,20
+ Armenia,21
+ Australia,22
+ Australia region,23
+ Austria,24
+ Azerbaijan,25
+ B.C.,26
+ Bahamas,27
+ Bangladesh,28
+ Barbados,29
+ Belgium,30
+ Belize,31
+ Benin,32
+ Bermuda,33
+ Bhutan,34
+ Bolivia,35
+ Bonaire,36
+ Bosnia and Herzegovina,37
+ Botswana,38
+ Brazil,39
+ Brunei,40
+ Bulgaria,41
+ Burundi,42
+ CA Earthquake,43
+ CO,44
+ Cabo Verde,45
+ California,46
+ Cameroon,47
+ Canada,48
+ Canada region,49
+ Cayman Islands,50
+ Central African Republic,51
+ Centrale GIKO,52
+ Chile,53
+ China,54
+ Colombia,55
+ Colorado,56
+ Comoros,57
+ Congo-Uganda,58
+ Connecticut,59
+ Costa Rica,60
+ Croatia,61
+ Cuba,62
+ Cyprus,63
+ Czechia,64
+ Delaware,65
+ Dem. Republic of the Congo-Tanzania,66
+ Democratic Republic of the Congo,67
+ Denmark,68
+ Djibouti,69
+ Dominica,70
+ Dominican Republic,71
+ Ecuador,72
+ Ecuador region,73
+ Egypt,74
+ El Salvador,75
+ Equatorial Guinea,76
+ Eritrea,77
+ Estonia,78
+ Eswatini,79
+ Ethiopia,80
+ Faroe Islands,81
+ Federated States of Micronesia,82
+ Fiji,83
+ Finland,84
+ Florida,85
+ France,86
+ French Guiana,87
+ French Polynesia,88
+ French Polynesia region,89
+ French Southern Territories,90
+ Gabon,91
+ Georgia,92
+ Germany,93
+ Ghana,94
+ Greece,95
+ Greenland,96
+ Grenada,97
+ Guadeloupe,98
+ Guam,99
+ Guatemala,100
+ Guernsey,101
+ Guinea,102
+ Guyana,103
+ HI,104
+ Haiti,105
+ Hawaii,106
+ Honduras,107
+ Hong Kong,108
+ Hungary,109
+ ID,110
+ Iceland,111
+ Idaho,112
+ Illinois,113
+ India,114
+ India region,115
+ Indiana,116
+ Indonesia,117
+ Iowa,118
+ Iran,119
+ Iraq,120
+ Ireland,121
+ Isle of Man,122
+ Israel,123
+ Italy,124
+ Jamaica,125
+ Japan,126
+ Japan region,127
+ Jersey,128
+ Jordan,129
+ KS,130
+ KY,131
+ Kahramanmaras earthquake sequence,132
+ Kalibo,133
+ Kansas,134
+ Kazakhstan,135
+ Kentucky,136
+ Kenya,137
+ Kiribati region,138
+ Kosovo,139
+ Kuwait,140
+ Kyrgyzstan,141
+ Laikit II (Dimembe),142
+ Laos,143
+ Latvia,144
+ Lebanon,145
+ Lesotho,146
+ Liberia,147
+ Libya,148
+ Liechtenstein,149
+ Lithuania,150
+ Louisiana,151
+ Luxembourg,152
+ ME,153
+ MO,155
+ MT,156
+ Madagascar,157
+ Maine,158
+ Malawi,159
+ Malaysia,160
+ Maldives,161
+ Mali,162
+ Malta,163
+ Marshall Islands,164
+ Martinique,165
+ Maryland,166
+ Massachusetts,167
+ Mauritania,168
+ Mauritius,169
+ Mayotte,170
+ Mexico,171
+ Michigan,172
+ Micronesia,173
+ Mindanao,174
+ Minnesota,175
+ Mississippi,176
+ Missouri,177
+ Monaco,178
+ Mongolia,179
+ Montana,180
+ Montenegro,181
+ Montserrat,182
+ Morocco,183
+ Mozambique,184
+ Myanmar,185
+ NC,186
+ NE,187
+ NJ,188
+ NM,189
+ NV,190
+ NV Earthquake,191
+ NY,192
+ Namibia,193
+ Nebraska,194
+ Nepal,195
+ Netherlands,196
+ Nevada,197
+ New Caledonia,198
+ New Hampshire,199
+ New Jersey,200
+ New Mexico,201
+ New York,202
+ New Zealand,203
+ New Zealand region,204
+ Nicaragua,205
+ Niger,206
+ Nigeria,207
+ North Carolina,208
+ North Dakota,209
+ North Korea,210
+ North Macedonia,211
+ Northern Mariana Islands,212
+ Northwest Territories,213
+ Norway,214
+ Nunavut,215
+ OK,216
+ OR,217
+ Ohio,218
+ Oklahoma,219
+ Oman,220
+ Oregon,221
+ PA,222
+ Pakistan,223
+ Palau,224
+ Palestinian Territory,225
+ Panama,226
+ Papua New Guinea,227
+ Pasadena,228
+ Pennsylvania,229
+ Peru,230
+ Philippines,231
+ Poland,232
+ Portugal,233
+ Portugal region,234
+ Puerto Rico,235
+ Quebec,236
+ Republic of the Congo,237
+ Reunion,238
+ Revilla Gigedo Islands,239
+ Rhode Island,240
+ Romania,241
+ Russia,242
+ Russia region,243
+ Rwanda,244
+ Saint Helena,245
+ Saint Kitts and Nevis,246
+ Saint Lucia,247
+ Saint Pierre and Miquelon,248
+ Saint Vincent and the Grenadines,249
+ Sakha,250
+ Samoa,251
+ San Felipe,252
+ San Marino,253
+ Sao Tome and Principe,254
+ Saudi Arabia,255
+ Senegal,256
+ Serbia,257
+ Seychelles,258
+ Sierra Leone,259
+ Slovakia,260
+ Slovenia,261
+ Solomon Islands,262
+ Somalia,263
+ Son.,264
+ South Africa,265
+ South Carolina,266
+ South Dakota,267
+ South Korea,268
+ South Sudan,269
+ Spain,270
+ Spain region,271
+ Sri Lanka,272
+ Stoke-on-Trent,273
+ Sudan,274
+ Sulawesi,275
+ Surigao del Norte,276
+ Svalbard and Jan Mayen,277
+ Sweden,278
+ Switzerland,279
+ Syria,280
+ TN,281
+ TX,282
+ Taiwan,283
+ Tajikistan,284
+ Tanzania,285
+ Tennessee,286
+ Texas,287
+ Thailand,288
+ Timor Leste,289
+ Tokelau,290
+ Tonga,291
+ Trinidad and Tobago,292
+ Tunisia,293
+ Turkey,294
+ Turkmenistan,295
+ Tuvalu,296
+ U.S. Virgin Islands,297
+ USA,298
+ UT,299
+ Uganda,300
+ Ukraine,301
+ United Arab Emirates,302
+ United Kingdom,303
+ United States,304
+ Utah,305
+ Uzbekistan,306
+ Vanuatu,307
+ Venezuela,308
+ Vermont,309
+ Vietnam,310
+ Virginia,311
+ WA,312
+ WY,313
+ Wallis and Futuna,314
+ Washington,315
+ West Virginia,316
+ Wisconsin,317
+ Wyoming,318
+ Yemen,319
+ Zambia,320
+ Zimbabwe,321
+ el Tibidabo i les Planes,322
+ Ñuñoa,323
+2004 Sumatra - Andaman Islands Earthquake,324
+Adriatic Sea,325
+Aegean Sea,326
+Afghanistan-Pakistan border region,327
+Afghanistan-Tajikistan border region,328
+Afghanistan-Tajikistan-Pakistan region,329
+Alabama,330
+Alaska Peninsula,331
+Albania,332
+Albania-Macedonia border region,333
+Albania-Serbia-Montenegro border region,334
+Antarctica,335
+Arabian Sea,336
+Arafura Sea,337
+Arctic Ocean,338
+Arizona,339
+Arkansas,340
+Arkansas-Oklahoma border region,341
+Armenia,342
+Ascension Island region,343
+Austria,344
+Austria-Hungary border region,345
+Austria-Italy-Slovenia border region,346
+Austria-Slovenia border region,347
+Azerbaijan,348
+Azores Islands region,349
+Azores-Cape St. Vincent Ridge,350
+Baffin Bay,351
+Bali Sea,352
+Balleny Islands region,353
+Baltic Sea,354
+Banda Sea,355
+Bangladesh,356
+Barents Sea,357
+Bay of Bengal,358
+Bay of Biscay,359
+Bay of Campeche,360
+Beaufort Sea,361
+Belgium,362
+Bering Sea,363
+Bering Strait,364
+Bismarck Sea,365
+Bosnia and Herzegovina,366
+Bosnia and Herzegovina region,367
+Bosnia and Herzegovina-Serbia-Montenegro border region,368
+Botswana,369
+Bouvet Island region,370
+Bristol Bay,371
+Broken Ridge,372
+Bulgaria,373
+California,374
+California-Baja California border region,376
+California-Nevada border region,377
+California-Nevada-Arizona border region,378
+Cape Verde,379
+Carlsberg Ridge,380
+Caspian Sea,381
+Cayman Islands region,382
+Celebes Sea,383
+Central Afghanistan,384
+Central African Republic,385
+Central Alaska,386
+Central California,387
+Central Peru,388
+Central Turkey,389
+Chagos Archipelago region,390
+Chile-Argentina border region,391
+Chile-Bolivia border region,392
+China-Laos border region,393
+Colombia,394
+Colombia-Ecuador border region,395
+Colombia-Venezuela border region,396
+Colorado,397
+Comoros region,398
+Costa Rica,399
+Croatia region,400
+Croatia-Bosnia and Herzegovina border region,401
+Croatia-Bosnia-Montenegro border region,402
+Crozet Islands region,403
+Cuba region,404
+Cyprus region,405
+Czech Republic-Austria border region,406
+D'Entrecasteaux Islands region,407
+Davis Strait,408
+Dead Sea region,409
+Democratic Republic of the Congo,410
+Denmark,411
+Djibouti region,412
+Dominican Republic region,413
+Drake Passage,414
+East Timor region,415
+East of Tanzania,416
+East of the Bonin Islands,417
+East of the Izu Islands,418
+East of the Mariana Islands,419
+East of the Volcano Islands,420
+Easter Island region,421
+Eastern Iran,422
+Eastern Kazakhstan,423
+Eastern Montana,424
+Eastern Xizang,425
+Ecuador,426
+Egypt,427
+El Salvador,428
+Eritrea-Ethiopia border region,429
+Ethiopia,430
+Falkland Islands region,431
+Federated States of Micronesia region,432
+Fiji,433
+Fiji region,434
+Finland,435
+Finland-Russia border region,436
+Flores Sea,437
+France,438
+Galapagos Triple Junction region,439
+Georgia (Sak'art'velo),440
+Georgia-Armenia border region,441
+Georgia-Azerbaijan border region,442
+Georgia-Turkey border region,443
+Germany,444
+Germany-Czech Republic border region,445
+Greece,446
+Greece-Albania border region,447
+Greece-Bulgaria border region,448
+Greenland Sea,449
+Guam region,450
+Guatemala,451
+Gulf of Aden,452
+Gulf of Alaska,453
+Gulf of California,454
+Gulf of Mexico,455
+Gulf of Thailand,456
+Haiti region,457
+Hawaiian Islands region,458
+Honduras,459
+Honduras-Guatemala border region,460
+Hungary,461
+Hungary-Romania border region,462
+Iceland,463
+Iceland region,464
+Idaho-Montana border region,465
+Illinois-Indiana border region,466
+Illinois-Kentucky border region,467
+India-Bangladesh border region,468
+Indian Ocean Triple Junction,469
+Ionian Sea,470
+Iran-Afghanistan border region,471
+Iran-Iraq border region,472
+Iran-Pakistan border region,473
+Iraq,474
+Italy-Slovenia-Croatia border region,475
+Jamaica region,476
+Jan Mayen Island region,477
+Java Sea,478
+Juan Fernandez Islands region,479
+Kahramanmaras Earthquake Sequence,480
+Kansas,481
+Kashmir-India border region,482
+Kashmir-Xinjiang border region,483
+Kashmir-Xizang border region,484
+Kazakhstan-Uzbekistan border region,485
+Kazakhstan-Xinjiang border region,486
+Kentucky,487
+Kentucky-Tennessee border region,488
+Kenya,489
+Kerguelen Islands region,490
+Kermadec Islands region,491
+Kuril Islands,492
+Kyrgyzstan,493
+Kyrgyzstan-Tajikistan border region,494
+Kyrgyzstan-Tajikistan-Xinjiang border region,495
+Kyrgyzstan-Xinjiang border region,496
+Labrador Sea,497
+Laccadive Sea,498
+Lake Almanor Earthquake,499
+Laptev Sea,500
+Leeward Islands,501
+Ligurian Sea,502
+Lomonosov Ridge,503
+Macedonia,504
+Macedonia region,505
+Macedonia-Serbia border region,506
+Macquarie Island region,507
+Madagascar,508
+Maine,509
+Malawi,510
+Maldive Islands region,511
+Malta region,512
+Mariana Islands region,513
+Marshall Islands region,514
+Mauritania,515
+Mauritius - Reunion region,516
+Mayotte region,517
+Mexico-Guatemala border region,518
+Michigan,519
+Mid-Indian Ridge,520
+Midway Islands region,521
+Minnesota,522
+Mississippi,523
+Missouri,524
+Missouri-Arkansas border region,525
+Missouri-Illinois border region,526
+Molucca Sea,527
+Mona Passage,528
+Mongolia-China border region,529
+Montenegro-Albania border region,530
+Morocco,531
+Mozambique,532
+Mozambique Channel,533
+Myanmar,534
+Myanmar-China border region,535
+Myanmar-India border region,536
+Myanmar-Thailand border region,537
+Near the coast of Azerbaijan,538
+Near the coast of Central California,539
+Near the coast of Guatemala,540
+Near the coast of Oman,541
+Near the coast of Syria,542
+Near the coast of northern Iran,543
+Near the coast of southeastern Iran,544
+Near the coast of southern Peru,545
+Near the coast of western Turkey,546
+Nepal,547
+Nepal-India border region,548
+Nevada,549
+New Caledonia,550
+New Hampshire,551
+New Jersey,552
+New Mexico,553
+New York,554
+Nicaragua,555
+North Atlantic Ocean,556
+North Carolina,557
+North Indian Ocean,558
+North Island of New Zealand,559
+North Pacific Ocean,560
+North Sea,561
+North of the Dominican Republic,562
+North of the Virgin Islands,563
+Northeastern Iran,564
+Northern California,565
+Northern Idaho,566
+Northern Iran,567
+Northern Peru,568
+Northern Texas,569
+Northwestern Iran,570
+Northwestern Russia,571
+Norwegian Sea,572
+Off the coast of Oregon,573
+Off the coast of southern Peru,574
+Ohio,575
+Ohio-Kentucky border region,576
+Oklahoma,577
+Oklahoma-Missouri-Arkansas border region,578
+Oregon,579
+Oregon-Idaho border region,580
+Owen Fracture Zone region,581
+Pacific-Antarctic Ridge,582
+Pakistan,583
+Palau region,584
+Panama,585
+Panama-Colombia border region,586
+Panama-Costa Rica border region,587
+Pennsylvania,588
+Persian Gulf,589
+Peru-Bolivia border region,590
+Peru-Brazil border region,591
+Peru-Ecuador border region,592
+Philippine Islands region,593
+Philippine Sea,594
+Pitcairn Islands region,595
+Poland,596
+Poland-Czech Republic-Slovakia Border Region,597
+Portugal,598
+Prince Edward Islands region,599
+Puerto Rico region,600
+Pyrenees,601
+Red Sea,602
+Revilla Gigedo Islands region,603
+Reykjanes Ridge,604
+Romania,605
+Ross Sea,606
+Russia-Georgia border region,607
+Russia-Georgia-Azerbaijan border region,608
+Russia-Kazakhstan-Xinjiang border region,609
+Russia-Mongolia border region,610
+Rwanda - Burundi region,611
+Samoa Islands,612
+Samoa Islands region,613
+Santa Cruz Islands,614
+Santa Cruz Islands region,615
+Savu Sea,616
+Scotia Sea,617
+Sea of Japan,618
+Sea of Okhotsk,619
+Serbia,620
+Serbia-Bulgaria-Macedonia border region,621
+Serbia-Romania border region,622
+Slovenia-Croatia border region,623
+Slovenia-Hungary-Croatia border region,624
+Socotra region,625
+Solomon Islands,626
+South Africa,627
+South Atlantic Ocean,628
+South Australia,629
+South Carolina,630
+South China Sea,631
+South Dakota,632
+South Georgia Island region,633
+South Georgia Rise,634
+South Indian Ocean,635
+South Island of New Zealand,636
+South Korea,637
+South Napa,638
+South Pacific Ocean,639
+South Sandwich Islands region,640
+South Shetland Islands,641
+South of the Mariana Islands,642
+Southeastern Alaska,643
+Southeastern Iran,644
+Southeastern Missouri,645
+Southern Alaska,646
+Southern California,647
+Southern Iran,648
+Southern Peru,649
+Southern Texas,650
+Southwest Indian Ridge,651
+Spain,652
+Strait of Gibraltar,653
+Strait of Hormuz,654
+Sudan,655
+Sulu Sea,656
+Svalbard region,657
+Sweden,658
+Switzerland,659
+Syria,660
+Taiwan,661
+Taiwan region,662
+Tajikistan,663
+Tajikistan-Xinjiang border region,664
+Tanzania,665
+Tennessee,666
+Tennessee-North Carolina border region,667
+Tennessee-Virginia border region,668
+Texas Panhandle region,669
+Texas-Chihuahua border region,670
+The Netherlands,671
+Timor Sea,672
+Timor region,673
+Tonga,674
+Tonga region,675
+Trinidad,676
+Tristan da Cunha region,677
+Tunisia,678
+Turkey-Iran border region,679
+Turkey-Iraq border region,680
+Turkey-Syria border region,681
+Turkey-Syria-Iraq border region,682
+Turkmenistan,683
+Turkmenistan-Iran border region,684
+Tyrrhenian Sea,685
+Utah,686
+Uzbekistan-Kyrgyzstan border region,687
+Uzbekistan-Tajikistan border region,688
+Vanuatu,689
+Vanuatu region,690
+Vietnam,691
+Virgin Islands,692
+Virgin Islands region,693
+Virginia,694
+Virginia-North Carolina border region,695
+Washington,696
+Washington-British Columbia border region,697
+Washington-Oregon border region,698
+West Chile Rise,699
+West Virginia,700
+West of the Mariana Islands,701
+West of the Queen Charlotte Islands,702
+Western Australia,703
+Western Iran,704
+Western Mongolia,705
+Western Montana,706
+Western Turkey,707
+Windward Islands,708
+Wyoming,709
+Xinjiang-Xizang border region,710
+Xizang-Nepal border region,711
+Xizang-Qinghai border region,712
+Zimbabwe,713
+central Afghanistan,714
+central East Pacific Rise,715
+central Iran,716
+central Italy,717
+central Kazakhstan,718
+central Mediterranean Sea,719
+central Mexico,720
+central Mid-Atlantic Ridge,721
+central Mongolia,722
+central Peru,723
+east Siberian Sea,724
+east central Pacific Ocean,725
+east of Australia,726
+east of Severnaya Zemlya,727
+east of the Kuril Islands,728
+east of the North Island of New Zealand,729
+east of the Philippine Islands,730
+east of the South Sandwich Islands,731
+eastern Greenland,732
+eastern Kashmir,733
+eastern Mediterranean Sea,734
+eastern Missouri,735
+eastern Russia-northeastern China border region,736
+eastern Sea of Japan,737
+eastern Turkey,738
+eastern Uzbekistan,739
+eastern Xizang-India border region,740
+near the coast of Ecuador,741
+near the coast of Guatemala,742
+near the coast of Libya,743
+near the coast of Nicaragua,744
+near the coast of Northern California,745
+near the coast of Oregon,746
+near the coast of South Australia,747
+near the coast of Venezuela,748
+near the coast of Washington,749
+near the coast of central Chile,750
+near the coast of central Peru,751
+near the coast of northern Peru,752
+near the north coast of Colombia,753
+near the north coast of Greenland,754
+near the south coast of France,755
+near the south coast of Myanmar,756
+near the southeast coast of Australia,757
+near the west coast of Colombia,758
+north of Ascension Island,759
+north of Franz Josef Land,760
+north of Honduras,761
+north of Macquarie Island,762
+north of New Zealand,763
+north of Panama,764
+north of Severnaya Zemlya,765
+north of Svalbard,766
+north of the Solomon Islands,767
+northeast of Taiwan,768
+northern Alaska,769
+northern Algeria,770
+northern Colombia,771
+northern East Pacific Rise,772
+northern Italy,773
+northern Mid-Atlantic Ridge,774
+northern Norway,775
+northern Peru,776
+northwest of Australia,777
+northwest of Madagascar,778
+northwest of New Zealand,779
+northwest of the Kuril Islands,780
+northwestern Iran,781
+northwestern Kashmir,782
+off the coast of California,783
+off the coast of Central America,784
+off the coast of Costa Rica,785
+off the coast of Ecuador,786
+off the coast of Mexico,787
+off the coast of Northern California,788
+off the coast of Oregon,789
+off the coast of Pakistan,790
+off the coast of South Africa,791
+off the coast of Southeastern Alaska,792
+off the coast of Washington,793
+off the coast of central Peru,794
+off the coast of northern Peru,795
+off the east coast of the North Island of New Zealand,796
+off the east coast of the South Island of New Zealand,797
+off the east coast of the United States,798
+off the south coast of Australia,799
+off the south coast of Northwest Africa,800
+off the west coast of northern Sumatra,801
+off the west coast of the North Island of New Zealand,802
+off the west coast of the South Island of New Zealand,803
+south of Africa,804
+south of Alaska,805
+south of Australia,806
+south of New Zealand,807
+south of Panama,808
+south of Tasmania,809
+south of Timor,810
+south of Tonga,811
+south of the Aleutian Islands,812
+south of the Chatham Islands,813
+south of the Fiji Islands,814
+south of the Kermadec Islands,815
+south of the Mariana Islands,816
+southeast Indian Ridge,817
+southeast central Pacific Ocean,818
+southeast of Australia,819
+southeast of Easter Island,820
+southeast of Taiwan,821
+southeast of the Galapagos Islands,822
+southeast of the Loyalty Islands,823
+southeastern China,824
+southeastern Missouri,825
+southern East Pacific Rise,826
+southern Greece,827
+southern Idaho,828
+southern Iran,829
+southern Italy,830
+southern Kerguelen Plateau,831
+southern Mid-Atlantic Ridge,832
+southern New England,833
+southern Norway,834
+southern Pacific Ocean,835
+southern Peru,836
+southern Texas,837
+southwest of Africa,838
+southwest of Australia,839
+southwest of the Galapagos Islands,840
+southwestern Atlantic Ocean,841
+southwestern Kashmir,842
+southwestern Pakistan,843
+west of Australia,844
+west of Gibraltar,845
+west of Macquarie Island,846
+west of Vancouver Island,847
+west of the Galapagos Islands,848
+west of the Mariana Islands,849
+western Greenland,850
+western Indian-Antarctic Ridge,851
+western Iran,852
+western Mediterranean Sea,853
+western Texas,854
+western Uzbekistan,855
+western Xizang,856
+western Xizang-India border region,857
